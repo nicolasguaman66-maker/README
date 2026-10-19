@@ -1,4 +1,4 @@
-package Main;
+package eje1;
 
 public class RegistroCliente {
     int id;
